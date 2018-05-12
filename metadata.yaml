@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25994
     wikipedia: http://pt.wikipedia.org/wiki/Jo%C3%A3o_Grave
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24919#Amor-Crioulovida-argentina
 gutenberg_issued: '2008-03-26'
 gutenberg_type: Text
 identifiers:
